@@ -1,5 +1,9 @@
 # subject-230623
 
+![image](https://github.com/winofsql/subject-230623/assets/1501327/c6066125-80ff-4573-9fe2-9fef87e25eef)
+
+
+
 ```sql
 CREATE TABLE `アニメマスタ` (
   `アニメコード` varchar(4) NOT NULL,
