@@ -4,6 +4,8 @@
 
 ### スマホ不可
 
+<br><br>
+
 ![image](https://github.com/winofsql/subject-230623/assets/1501327/c6066125-80ff-4573-9fe2-9fef87e25eef)
 
 プログラム作成中を Zoom で録画したデータ( mp4 / C:\Users\lightbox\Documents\Zoom )
