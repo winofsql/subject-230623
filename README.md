@@ -2,7 +2,7 @@
 
 ### ✅ 前提条件としてインターネット可
 
-# ⛔ 試験に関する質問は受け付けない。当日までに自分で準備する事
+# ⛔ 試験に関する質問(内容・手順)は受け付けない。当日までに自分で準備する事
 
 ### ⛔ Zoomアカウントが無い場合は参加不可
 
@@ -25,12 +25,12 @@
 
 ### 提出物
 
-🔴 Visual Studio 2022 で開く事が可能な以下のファイルを zip 圧縮して、a学籍番号.zip で提出
+🔴 Visual Studio 2022 で開く事が可能な以下のファイルを zip 圧縮して、**a学籍番号.zip** で提出
 ![image](https://github.com/winofsql/subject-230623/assets/1501327/c6066125-80ff-4573-9fe2-9fef87e25eef)
 
-🔴 プログラム作成中を Zoom で録画したデータ( mp4 / C:\Users\lightbox\Documents\Zoom ) を b学籍番号.mp4 で提出
+🔴 プログラム作成中を Zoom で録画したデータ( mp4 / C:\Users\lightbox\Documents\Zoom ) を **b学籍番号.mp4** で提出
 
-🔴 使用したテーブルの Create 文二つと参照データの CSV ファイルを圧縮して、c学籍番号.zip で提出
+🔴 使用したテーブルの Create 文二つと参照データの CSV ファイルを圧縮して、**c学籍番号.zip** で提出
 ```sql
 CREATE TABLE `アニメマスタ` (
   `アニメコード` varchar(4) NOT NULL,
