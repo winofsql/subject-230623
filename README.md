@@ -36,6 +36,10 @@ CREATE TABLE `所属マスタ` (
 )
 ```
 
-![image](https://github.com/winofsql/subject-230623/assets/1501327/ee33844e-9d19-41f3-9fbb-d43154098f91)
+```csv
+0001,アクタス
+0002,バンダイ
+0003,スタジオジブリ
+```
 
 上記のような csv をcreate 文のテキストといっしょに c学籍番号.zip で提出
