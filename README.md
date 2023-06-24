@@ -16,20 +16,20 @@
 ```sql
 CREATE TABLE `アニメマスタ` (
   `アニメコード` varchar(4) NOT NULL,
-  `アニメ名` varchar(50) DEFAULT NULL,
-  `参照` varchar(4) DEFAULT NULL,
-  `アニメ区分` int DEFAULT NULL,
-  `数値` int DEFAULT NULL,
-  `日付` datetime DEFAULT NULL,
+  `アニメ作品タイトル` varchar(50) DEFAULT NULL,
+  `制作会社` varchar(4) DEFAULT NULL,
+  `アニメ分類` int DEFAULT NULL,
+  `放映回数` int DEFAULT NULL,
+  `初回放映開始日` datetime DEFAULT NULL,
   PRIMARY KEY (`アニメコード`)
 )
 ```
 
 ```sql
 CREATE TABLE `所属マスタ` (
-  `所属コード` varchar(4) NOT NULL,
-  `所属名称` varchar(50) DEFAULT NULL,
-  PRIMARY KEY (`所属コード`)
+  `制作会社コード` varchar(4) NOT NULL,
+  `制作会社名称` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`制作会社コード`)
 )
 ```
 
