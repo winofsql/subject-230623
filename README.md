@@ -14,6 +14,7 @@
 ### ⛔ 不正は即退場
 
 ### 🔴 こちらの指定した画像をデスクトップに設定する
+  "G:\共有ドライブ\SE-WORK-DOWNLOAD\_windows-software\DESKTOP-WALLPAPER-settings.vbs"
 ### 🔴 デスクトップのアイコンを非表示にする
 ### 🔴 タスクバーを常に表示する設定で行う
 ### 🔴 Visual Sttudio 2022 のウインドウの大きさをこちらの指定通りにする(プログラムを用意しています)
