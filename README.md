@@ -21,7 +21,7 @@
 [cs-form-mtn-012-vs2022](https://github.com/winofsql/cs-form-mtn-012-vs2022) と [cs-form-mtn-013-vs2022](https://github.com/winofsql/cs-form-mtn-013-vs2022) で作成可能
 <br><br>
 
-### 🔵 プロジェクト名は PG学籍番号 > namespace がその名前になります
+### 🔵 プロジェクト名は pg学籍番号 > namespace がその名前になります
 
 ### 提出物
 
