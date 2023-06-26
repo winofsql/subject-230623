@@ -14,10 +14,14 @@
 ### ⛔ 不正は即退場
 
 ### 🔴 こちらの指定した画像をデスクトップに設定する
-  "G:\共有ドライブ\SE-WORK-DOWNLOAD\_windows-software\DESKTOP-WALLPAPER-settings.vbs"
+"G:\共有ドライブ\SE-WORK-DOWNLOAD\_windows-software\DESKTOP-WALLPAPER-settings.vbs"
 ### 🔴 デスクトップのアイコンを非表示にする
+同上
 ### 🔴 タスクバーを常に表示する設定で行う
+同上
 ### 🔴 Visual Sttudio 2022 のウインドウの大きさをこちらの指定通りにする(プログラムを用意しています)
+"G:\共有ドライブ\SE-WORK-DOWNLOAD\_windows-software\WINDOW-SIZE-settings.vbs"\ 
+( window-size-Visual-Studio-2022.bat )
 
 [cs-form-mtn-012-vs2022](https://github.com/winofsql/cs-form-mtn-012-vs2022) と [cs-form-mtn-013-vs2022](https://github.com/winofsql/cs-form-mtn-013-vs2022) で作成可能
 <br><br>
