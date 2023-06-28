@@ -49,7 +49,7 @@ CREATE TABLE `アニメマスタ` (
 ```
 
 ```sql
-CREATE TABLE `所属マスタ` (
+CREATE TABLE `制作会社マスタ` (
   `制作会社コード` varchar(4) NOT NULL,
   `制作会社名称` varchar(50) DEFAULT NULL,
   PRIMARY KEY (`制作会社コード`)
