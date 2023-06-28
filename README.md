@@ -23,7 +23,7 @@
 "G:\共有ドライブ\SE-WORK-DOWNLOAD\_windows-software\WINDOW-SIZE-settings.vbs" <br> 
 ( window-size-Visual-Studio-2022.bat )
 
-[cs-form-mtn-012-vs2022](https://github.com/winofsql/cs-form-mtn-012-vs2022) と [cs-form-mtn-013-vs2022](https://github.com/winofsql/cs-form-mtn-013-vs2022) で作成可能
+[cs-form-mtn-012-vs2022](https://github.com/winofsql/cs-form-mtn-012-vs2022) と [cs-form-mtn-013-vs2022](https://github.com/winofsql/cs-form-mtn-011-vs2022) で作成可能
 <br><br>
 
 ### 🔵 プロジェクト名は pg学籍番号 > namespace がその名前になります
