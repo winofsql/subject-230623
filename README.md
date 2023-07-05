@@ -23,6 +23,7 @@
 ### 🔴 Visual Studio 2022 で .sln を開いたらすぐに、入れ子の設定をすること(WEB)
 
 <hr>
+### 🔴 まず最初に自分のアカウントで Zoom にログインして、録画を開始する( 以下の作業は全て録画する事 )
 
 ### 🔴 こちらの指定した画像をデスクトップに設定する
 "G:\共有ドライブ\SE-WORK-DOWNLOAD\_windows-software\DESKTOP-WALLPAPER-settings.vbs"
