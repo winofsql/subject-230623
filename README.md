@@ -18,6 +18,8 @@
 
 <hr>
 
+### 🔴 cs-form-mtn-012-vs2022 と cs-form-mtn-011-vs2022 は、必ず当日ダウンロードする事( 当日マーキングします )
+
 ### 🔴 こちらの指定した画像をデスクトップに設定する
 "G:\共有ドライブ\SE-WORK-DOWNLOAD\_windows-software\DESKTOP-WALLPAPER-settings.vbs"
 ### 🔴 デスクトップのアイコンを非表示にする
