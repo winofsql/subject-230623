@@ -47,6 +47,7 @@
 "G:\共有ドライブ\SE-WORK-DOWNLOAD\_windows-software\WINDOW-SIZE-settings.vbs" <br> 
 ( C:\app2\WindowSize\window-size-Visual-Studio-2022.bat を実行 )
 
+![image](https://github.com/winofsql/subject-230623/assets/1501327/5af41535-bcd7-47b6-bef0-55d86a5324ec)
 
 
 <br><br>
