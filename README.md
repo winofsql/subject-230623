@@ -42,7 +42,7 @@
 
 ### ❺ Visual Sttudio 2022 のウインドウの大きさをこちらの指定通りにする(プログラムを用意しています)
 "G:\共有ドライブ\SE-WORK-DOWNLOAD\_windows-software\WINDOW-SIZE-settings.vbs" <br> 
-( window-size-Visual-Studio-2022.bat )
+( C:\app2\WindowSize\window-size-Visual-Studio-2022.bat を実行 )
 
 [cs-form-mtn-012-vs2022](https://github.com/winofsql/cs-form-mtn-012-vs2022) と [cs-form-mtn-011-vs2022](https://github.com/winofsql/cs-form-mtn-011-vs2022) で作成可能
 <br><br>
