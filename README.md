@@ -26,11 +26,11 @@
 
 ### ❶ まず最初に自分のアカウントで Zoom にログインして、録画を開始する( 以下の作業は全て録画する事 )
 
-### 🔴 こちらの指定した画像をデスクトップに設定する
+### ❷ こちらの指定した画像をデスクトップに設定する
 "G:\共有ドライブ\SE-WORK-DOWNLOAD\_windows-software\DESKTOP-WALLPAPER-settings.vbs"
 ![image](https://github.com/winofsql/subject-230623/assets/1501327/0fb2a86b-1f33-409b-bb1a-1641b00929eb)
 
-### ❷ 上の実行でデスクトップのアイコンを非表示になるので、一時的に表示したい場合は以下(デスクトップを右クリック)
+### 上の実行でデスクトップのアイコンを非表示になるので、一時的に表示したい場合は以下(デスクトップを右クリック)
 ![image](https://github.com/winofsql/subject-230623/assets/1501327/ce311cbc-2e2c-460a-a554-f797ea6bfa88)\
 **※必要なアプリの起動が終わったら元に戻してください**
 
