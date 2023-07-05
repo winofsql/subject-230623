@@ -34,8 +34,10 @@
 ![image](https://github.com/winofsql/subject-230623/assets/1501327/ce311cbc-2e2c-460a-a554-f797ea6bfa88)\
 **※必要なアプリの起動が終わったら元に戻してください**
 
-### 🔴 タスクバーを常に表示する設定で行う
-同上
+### タスクバーを常に表示する設定になります
+
+### ❸ [cs-form-mtn-012-vs2022](https://github.com/winofsql/cs-form-mtn-012-vs2022) と [cs-form-mtn-011-vs2022](https://github.com/winofsql/cs-form-mtn-011-vs2022) をダウンロード
+
 ### 🔴 Visual Sttudio 2022 のウインドウの大きさをこちらの指定通りにする(プログラムを用意しています)
 "G:\共有ドライブ\SE-WORK-DOWNLOAD\_windows-software\WINDOW-SIZE-settings.vbs" <br> 
 ( window-size-Visual-Studio-2022.bat )
