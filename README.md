@@ -40,9 +40,14 @@
 
 ### ❹ [cs-form-mtn-012-vs2022](https://github.com/winofsql/cs-form-mtn-012-vs2022) を起動
 
-### ❺ Visual Sttudio 2022 のウインドウの大きさをこちらの指定通りにする(プログラムを用意しています)
+### ❺ まず、入れ子の設定を行う
+![image](https://github.com/winofsql/subject-230623/assets/1501327/86202436-0267-4d46-b4f6-51096c4552a6)
+
+### ❻ Visual Sttudio 2022 のウインドウの大きさをこちらの指定通りにする(プログラムを用意しています)
 "G:\共有ドライブ\SE-WORK-DOWNLOAD\_windows-software\WINDOW-SIZE-settings.vbs" <br> 
 ( C:\app2\WindowSize\window-size-Visual-Studio-2022.bat を実行 )
+
+
 
 <br><br>
 
