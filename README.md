@@ -28,6 +28,9 @@
 
 ### 🔴 こちらの指定した画像をデスクトップに設定する
 "G:\共有ドライブ\SE-WORK-DOWNLOAD\_windows-software\DESKTOP-WALLPAPER-settings.vbs"
+![image](https://github.com/winofsql/subject-230623/assets/1501327/0fb2a86b-1f33-409b-bb1a-1641b00929eb)
+
+
 ### 🔴 デスクトップのアイコンを非表示にする
 同上
 ### 🔴 タスクバーを常に表示する設定で行う
