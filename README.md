@@ -57,7 +57,7 @@
 ### 提出物
 
 🔴 Visual Studio 2022 で開く事が可能な以下のファイルを zip 圧縮して、**a学籍番号.zip** で提出
-![image](https://github.com/winofsql/subject-230623/assets/1501327/c6066125-80ff-4573-9fe2-9fef87e25eef)
+![image](https://github.com/winofsql/subject-230623/assets/1501327/cb9ba82f-a8da-440e-88be-b902c8cc5f28)
 
 🔴 プログラム作成中を Zoom で録画したデータ( mp4 / C:\Users\lightbox\Documents\Zoom ) を **b学籍番号.mp4** で提出
 
