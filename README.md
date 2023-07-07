@@ -17,6 +17,7 @@
 ### ⛔ 不正は即退場
 
 <hr>
+
 ### ❶ まず最初に自分のアカウントで Zoom にログインして、録画を開始する( 以下の作業は全て録画する事 )
 
 ### 🔶 [cs-form-mtn-012-vs2022](https://github.com/winofsql/cs-form-mtn-012-vs2022) と [cs-form-mtn-011-vs2022](https://github.com/winofsql/cs-form-mtn-011-vs2022) は必ず当日ダウンロードする事(当日マーキングします)
